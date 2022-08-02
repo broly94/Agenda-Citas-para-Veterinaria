@@ -8,7 +8,7 @@
   <li>LOCALSTORAGE</li>
 </ul>
 
-<p>Para poder ejecutar el proyecto sigua estos pasos</p>
+<p>Para poder descargar y ejecutar el proyecto debes seguir estos pasos</p>
 
 <ol>
   <li>Abra una terminal CMD/PowerShell/Bash etc</li>
