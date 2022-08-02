@@ -8,4 +8,14 @@
   <li>LOCALSTORAGE</li>
 </ul>
 
+<p>Para poder ejecutar el proyecto sigua estos pasos</p>
+
+<ol>
+  <li>Abra una terminal CMD/PowerShell/Bash etc</li>
+  <li>copie este codigo <b>git clone https://github.com/broly94/app-citas-veterinaria</b> y presione ENTER</li>
+  <li>Ejecute la siguiente linea <b>cd app-citas-veterinaria</b></li>
+  <li>Ejecute la siguiente linea en la consola <b>npm install</b></li>
+  <li>Ejecute la siguiente linea <b>npm start</b></li>
+</ol>
+
 <a href="https://stoic-ride-1cd140.netlify.app/">Proyecto alojado en Netlify</a>
